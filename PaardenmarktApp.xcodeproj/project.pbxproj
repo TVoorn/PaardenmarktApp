@@ -484,6 +484,7 @@
 				A78F4DB91C91F969002924EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A78F4DBA1C91F969002924EE /* Build configuration list for PBXNativeTarget "PaardenmarktAppTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				A78F4DBC1C91F969002924EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A78F4DBD1C91F969002924EE /* Build configuration list for PBXNativeTarget "PaardenmarktAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +502,7 @@
 				A78F4DBF1C91F969002924EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
