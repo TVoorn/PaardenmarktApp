@@ -14,6 +14,7 @@
 		A78F4D9D1C91F968002924EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A78F4D9B1C91F968002924EE /* LaunchScreen.storyboard */; };
 		A78F4DA81C91F969002924EE /* PaardenmarktAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A78F4DA71C91F969002924EE /* PaardenmarktAppTests.swift */; };
 		A78F4DB31C91F969002924EE /* PaardenmarktAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A78F4DB21C91F969002924EE /* PaardenmarktAppUITests.swift */; };
+		A7F993431C92157D00F0C38D /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = A7F993421C92157D00F0C38D /* logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A78F4DAE1C91F969002924EE /* PaardenmarktAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PaardenmarktAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A78F4DB21C91F969002924EE /* PaardenmarktAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaardenmarktAppUITests.swift; sourceTree = "<group>"; };
 		A78F4DB41C91F969002924EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7F993421C92157D00F0C38D /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = ../../../Downloads/logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		A78F4D911C91F968002924EE /* PaardenmarktApp */ = {
 			isa = PBXGroup;
 			children = (
+				A7F993411C92151700F0C38D /* images */,
 				A78F4D921C91F968002924EE /* AppDelegate.swift */,
 				A78F4D941C91F968002924EE /* ViewController.swift */,
 				A78F4D961C91F968002924EE /* Main.storyboard */,
@@ -123,6 +126,14 @@
 				A78F4DB41C91F969002924EE /* Info.plist */,
 			);
 			path = PaardenmarktAppUITests;
+			sourceTree = "<group>";
+		};
+		A7F993411C92151700F0C38D /* images */ = {
+			isa = PBXGroup;
+			children = (
+				A7F993421C92157D00F0C38D /* logo.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,6 +240,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7F993431C92157D00F0C38D /* logo.png in Resources */,
 				A78F4D9D1C91F968002924EE /* LaunchScreen.storyboard in Resources */,
 				A78F4D9A1C91F968002924EE /* Assets.xcassets in Resources */,
 				A78F4D981C91F968002924EE /* Main.storyboard in Resources */,
